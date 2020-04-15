@@ -9,6 +9,6 @@
 https://proprivacy.com/tools/scam-website-checker
 
 # Update schedule:
-Newly registered domains: Updated daily (Mon-Fri), 17:00 BST
-New malicious domains: Updated daily (Mon-Fri), 17:00 BST
-WHOIS, GEO, IP, Response Code data: Updated weekly, Friday 17:00 BST
+- Newly registered domains: Updated daily (Mon-Fri), 17:00 BST
+- New malicious domains: Updated daily (Mon-Fri), 17:00 BST
+- WHOIS, GEO, IP, Response Code data: Updated weekly, Friday 17:00 BST
