@@ -1,4 +1,4 @@
-# covid-19
+# COVID-19 Malicious Domain Research Data
 
 The research process
 The database is currently focused on identifying domains related to 4 text strings: 'covid', 'corona', 'virus', 'vaccine', & 'cure'
