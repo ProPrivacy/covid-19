@@ -4,7 +4,8 @@
 - Our primary source of data is global WHOIS datasets provided by WHOISDS dating back to the start of the pandemic. These dumps cover all major TLDs & ccTLDs
 - We are also monitoring Certificate Transparency Logs in real-time for a growing number of keywords
 - All of this data is then fed through our partner, VirusTotal 
-- We augment this data with other research compiled by cybersecurity organisations. At the moment, this includes ScanTitan and DomainTools although we are looking to add additional datasets if and when they become available
+- We compile detailed WHOIS data thanks to our partnership with WHOIS XML API
+- We augment this data with other research compiled by cybersecurity organisations.
 - The scam checker tool acts as a front-end interface for members of the public who might want to check if a domain is malcious. At the moment, this data is based on our own scans rather than additional data we have gathered
 https://proprivacy.com/tools/scam-website-checker
 
